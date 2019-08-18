@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "sethmccombs.github.io"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
@@ -22,7 +22,7 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
+    title = "Seth McCombs"
     subtitle = "A simple, retro theme for Hugo"
     keywords = ""
     copyright = ""
@@ -31,7 +31,7 @@ paginate = 5
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "Terminal"
+      logoText = "Seth McCombs "
       logoHomeLink = "/"
 
     [languages.en.menu]
@@ -40,6 +40,6 @@ paginate = 5
         name = "About"
         url = "/about"
       [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
+        identifier = "blog"
+        name = "Blog"
+        url = "/blog"
