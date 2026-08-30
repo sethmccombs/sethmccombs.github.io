@@ -39,6 +39,18 @@
   </li>
   {%- endif -%}
 
+  {%- if network[0] == "youcanbookme" -%}
+  <li class="list-inline-item">
+    <a href="https://{{ network[1] }}.youcanbookme.com/" title="Schedule a meeting with me">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-calendar-check fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Schedule a meeting with me!</span>
+    </a>
+  </li>
+  {%- endif -%}
+
   {%- if network[0] == "facebook" -%}
   <li class="list-inline-item">
     <a href="https://www.facebook.com/{{ network[1] }}" title="Facebook">
