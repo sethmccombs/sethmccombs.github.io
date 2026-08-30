@@ -19,6 +19,7 @@ You can book an intro call [here!](https://sethmccombs.youcanbook.me)
 - Cloud Native Tooling: 
   - Istio, Cert-Manager, Open Policy Agent
 - Infrastructure as Code: OpenTofu, Terraform and Terragrunt
-- Reliability: SLI/SLO, observability, incident response, capacity/cost optimization
+- Observability: Prometheus, Grafana, Open Telemetry, Datadog
+- Reliability: SLI/SLO, incident response, capacity/cost optimization
 - Automation: Bash, Go, Python
 - CI/CD: GitHub Actions, GitLab CI, Google Cloud Build, Jenkins, Spinnaker, CircleCI
