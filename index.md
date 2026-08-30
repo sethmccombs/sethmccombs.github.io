@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: 
+title: Seth McCombs
+subtitle: Kubernetes & Cloud Infrastructure, Site Reliability and DevOps Engineer
 ---
 
 My name is Seth McCombs, I've been working in the Kubernetes and Cloud Native space for nearly a decade, across industries like security, medtech, and various Saas services. You can see my work history [here](../resume)
@@ -16,8 +16,8 @@ You can book an intro call [here!](https://sethmccombs.youcanbook.me)
 
 - Kubernetes (EKS, GKE, self-managed)
 - Cloud Platforms (AWS, GCP, Azure)
-- Cloud Native Tooling: 
-  - Istio, Cert-Manager, Open Policy Agent
+- Cloud Native Tooling:
+- Istio, Cert-Manager, Open Policy Agent
 - Infrastructure as Code: OpenTofu, Terraform and Terragrunt
 - Observability: Prometheus, Grafana, Open Telemetry, Datadog
 - Reliability: SLI/SLO, incident response, capacity/cost optimization
