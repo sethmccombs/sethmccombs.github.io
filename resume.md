@@ -7,16 +7,19 @@ subtitle: Work Experience
 ### Greybeam ([greybeam.ai](greybeam.ai))
 **Founding Infrastructure Engineer**  
 **October 2025 – August 2026**
-- Lead all AWS operations (utilizing EKS, RDS, VPCs/Load Balancing, S3)
-- Expanded Greybeam platform to GCP (utilizing GKE, CloudSQL, Cloud Storage)
-- Implemented new tooling for:
-    - Automation: ArgoCD, Gruntwork Scale
-    - Observability: Datadog
-    - Security: conftest, Kusari Inspector
-- Worked alongside co-founders to help Greybeam achieve SOC2 certification
-- Implemented zero-downtime upgrades of all infrastructure tools and services
-- Istio Ambient/Gateways, RDS Postgres versions, Terraform/OpenTofu Providers
-- Implemented Karpenter/Spot nodes in AWS to save 30%+ on Cloud Costs per customer
+
+- Led infrastructure operations across AWS, including EKS, RDS, VPC networking, load balancing, and S3.
+- Expanded Greybeam's platform into GCP, building and operating infrastructure using GKE, Cloud SQL, and Cloud Storage.
+- Introduced and standardized infrastructure tooling across several areas:
+  - Automation/Deployment: [ArgoCD](https://argoproj.github.io/cd/), [Terragrunt Scale](https://terragrunt.com/terragrunt-scale)
+  - Observability: [kube-prometheus](https://github.com/prometheus-operator/kube-prometheus), [Datadog](https://www.datadoghq.com)
+  - Security & Policy: [conftest](https://www.conftest.dev), [Kusari Inspector](https://www.kusari.dev/inspector/), GitHub Dependabot, [Cert-Manager](https://cert-manager.io)
+- Partnered with Greybeam's co-founders to establish infrastructure and security practices supporting the company's SOC 2 certification. 
+- Planned and executed zero-downtime upgrades across critical infrastructure services and tooling, including:
+  - Istio Ambient Mesh and Gateway components
+  - RDS version upgrades
+  - Terraform and OpenTofu versions, and AWS Terraform providers 
+- Implemented [Karpenter](https://karpenter.sh)/Spot nodes in AWS to save 30%+ on Cloud Costs per customer
 - Sole on-call engineer for all after hours issues/alerts
 
 ---
@@ -25,14 +28,15 @@ subtitle: Work Experience
 **Senior SWE 2 / Infra Tech Lead**  
 **November 2022 - October 2025** (promoted to Senior 2 in February 2024)
 
-- Lead Infrastructure at AcuityMD - moving to fully GKE based platform from various GCP container hosting (Cloud Run, Cloud Functions) and managed services (App Engine)
-- Lead migration from GCP Cloud Build to GitHub Actions for CI and ArgoCD for deploys
-- Introduced multiple automation tools to speed up developer processes - Atlantis for Terraform automation, Tilt for local development
-- Built in-house CLI tool to enable devs to troubleshoot Kubernetes based microservices and Cloud hosted services
-- Implemented multiple networking security and stability improvements leveraging Istio Gateway and GCP Gateways
-- Deployed observability tooling for infra (kube-prometheus) and application (Datadog)
-- Implemented SLI/SLO Metrics for platform and component availability
-- On-call engineer for infra issues and CICD escalations
+- Led infrastructure engineering and platform strategy at AcuityMD.
+- Drove the migration toward a GKE-based platform, consolidating workloads previously distributed across GCP container and managed services including Cloud Run, Cloud Functions, and App Engine.
+- Led the migration from GCP Cloud Build to GitHub Actions for CI and established [ArgoCD]([ArgoCD](https://argoproj.github.io/cd/))-based GitOps workflows for application deployments.
+- Introduced automation tooling to improve developer workflows, including [Atlantis]([Atlantis](https://www.runatlantis.io)) for Terraform automation and [Tilt]([Tilt](https://tilt.dev)) for local Kubernetes development.
+- Built an internal CLI that enabled application engineers to independently troubleshoot Kubernetes microservices and cloud-hosted services.
+- Improved platform networking, security, and reliability through the adoption of Istio Gateway and GCP Gateway technologies.
+- Established infrastructure and application observability using ([prometheus](https://prometheus.io)) and [Datadog](datadog.com)
+- Helped define and implement SLI/SLO-based reliability metrics for platform and component availability.
+- Participated in the infrastructure on-call rotation and served as escalation point for CICD and platform issues
 
 ---
 
@@ -55,12 +59,14 @@ subtitle: Work Experience
 **Software Development Engineer III – Public Cloud SRE**  
 **November 2020 – April 2022**
 
-- Managed Kubernetes platform for Public Cloud including upgrades of self managed AWS based Kubernetes clusters, as well as internal team applications
-- Rewrote all internal documentation for new environment buildouts
+- Member of Public Cloud Platform team, responsible for
+  - Operation and maintenance of self-managed Kubernetes platform hosted in Amazon Web Services
+  - Support for deployment infrastructure for weekly platform and core application patches
+- Participated in rewrite of all internal documentation for new environment builds
 - Designed new support model for cross-team engagements
 - CI/CD automation and Kubernetes platform infrastructure
-- Drove cross-team initiatives modeled on Kubernetes SIGs
-- Led secure image pipeline project for FedRAMP compliance
+- Introduced and drove cross-team initiatives modeled on Kubernetes SIGs
+- Co-led secure image pipeline project for FedRAMP compliance 
 - Bi-weekly on-call rotation for issues in automated deployments/patching Kubernetes environments
 
 
