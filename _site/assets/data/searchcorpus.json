@@ -10,8 +10,8 @@
 }, 
  
 { 
-"title"    : "Resume", 
-"desc"     : "Resume", 
+"title"    : "Work History", 
+"desc"     : "Work History", 
 "category" : "page", 
 "url"      : "/resume/", 
 "date"     : "January 1, 1970" 

@@ -20,7 +20,7 @@ author: Seth McCombs
 ###############################################
 
 navbar-links:
-  Work Experience: "resume"
+  Work History: "resume"
   Speaking: "speaking"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"

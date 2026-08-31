@@ -1109,3 +1109,16 @@ pre {
     display: inline-block;
   }
 }
+
+
+/* custom CSS*/
+.job-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 2rem;
+}
+
+.job-date {
+  white-space: nowrap;
+}
