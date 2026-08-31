@@ -4,7 +4,7 @@ title: Seth McCombs
 subtitle: Kubernetes & Cloud Infrastructure, Site Reliability and DevOps Engineer
 ---
 
-My name is Seth McCombs, I've been working in the Kubernetes and Cloud Native space for nearly a decade, across industries like security, medtech, and various Saas services. You can see my work history [here](../resume)
+My name is Seth, I've been working in the Kubernetes and Cloud Native space for nearly a decade, across industries like security, medtech, and various Saas services. You can see my work history [here](../resume)
 
 I've split my time between working alongside other engineers on Infrastructure and SRE teams, as well as working as a solo engineer, helping organizations build out their infrastructure / devops function.
 
