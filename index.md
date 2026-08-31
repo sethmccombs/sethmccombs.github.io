@@ -15,11 +15,14 @@ I have experience in:
 - Kubernetes migrations/day 2 operations
 - Observability tooling deployments, support and modernization
 - Infrastructure as Code implementations, imports and refactoring
-- Many other Cloud Native, SRE, DevOps, etc things! 
+- CICD/Build System implementations and migrations
+- Many other Cloud Native, SRE, DevOps tools and platforms! 
 
-You can book an intro call [here!](https://sethmccombs.youcanbook.me)
+## You can book an intro call [here!](https://sethmccombs.youcanbook.me)
 
-## Skills
+---
+
+## Technical Skills
 
 - Kubernetes (EKS, GKE, self-managed)
 - Cloud Platforms (AWS, GCP, Azure)
