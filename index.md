@@ -1,35 +1,23 @@
 ---
 layout: page
 title: Seth McCombs
-subtitle: Kubernetes & Cloud Infrastructure, Site Reliability and DevOps Engineer
+subtitle: Infrastructure & Platform Engineer
 ---
 
-My name is Seth, I've been working in the Kubernetes and Cloud Native space for nearly a decade, across industries like cloud security, medtech, streaming video and various Saas services. You can see my work history [here](../resume)
+I'm an infrastructure and platform engineer with nearly a decade of experience building, operating and irmproving cloud-native systems. I've worked across cloud security, healthcare technology, streaming video and Saas - both as a part of infrastructure and SRE teams, and as the sole engineer responsible for building and operating a company's infrastructure
 
-I've split my time between working alongside other engineers on Infrastructure and SRE teams, as well as working as a solo engineer, helping organizations build out their infrastructure / devops function.
+My work focuses on Kubernetes, cloud infra, platform engineering, reliability, and developer tooling. You can view my full work history [here](./resume)
 
-I'm currently have availability for consulting, and I'd love to chat about your needs in the Cloud Infrastructure and SRE space, and how I can help!
+## How I Can Help 
 
-I have experience in:
+I’m available for consulting and can help organizations design, modernize, and operate their cloud infrastructure.
 
-- Kubernetes migrations/day 2 operations
-- Observability tooling deployments, support and modernization
-- Infrastructure as Code implementations, imports and refactoring
-- CICD/Build System implementations and migrations
-- Many other Cloud Native, SRE, DevOps tools and platforms! 
+- Kubernetes — migrations, platform modernization, upgrades, and day-two operations
+- Infrastructure as Code — Terraform/OpenTofu implementations, imports, refactoring, and automation CI/CD & Developer Platforms — build system implementations, migrations, and GitOps workflows
+- Observability — monitoring, metrics, logging, and tracing deployments and modernization
+- Reliability Engineering — SLI/SLO implementation, incident response, capacity planning, and cost optimization
+- Cloud Infrastructure — AWS and GCP platform design, migrations, and operations/improvements
 
-## You can book an intro call [here!](https://sethmccombs.youcanbook.me)
+## [Book an Intro Call](https://sethmccombs.youcanbook.me) 📅
 
----
-
-## Technical Skills
-
-- Kubernetes (EKS, GKE, self-managed)
-- Cloud Platforms (AWS, GCP, Azure)
-- Cloud Native Tooling:
-- Istio, Cert-Manager, Open Policy Agent
-- Infrastructure as Code: OpenTofu, Terraform and Terragrunt
-- Observability: Prometheus, Grafana, Open Telemetry, Datadog
-- Reliability: SLI/SLO, incident response, capacity/cost optimization
-- Automation: Bash, Go, Python
-- CI/CD: GitHub Actions, GitLab CI, Google Cloud Build, Jenkins, Spinnaker, CircleCI
+If you're working through an infrastructure challenge or building out your cloud platform, I'd be happy to talk about how I can help!
