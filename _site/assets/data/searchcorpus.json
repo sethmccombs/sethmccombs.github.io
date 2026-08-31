@@ -2,14 +2,6 @@
  
  
 { 
-"title"    : "About me", 
-"desc"     : "About me", 
-"category" : "page", 
-"url"      : "/aboutme/", 
-"date"     : "January 1, 1970" 
-}, 
- 
-{ 
 "title"    : "Seth McCombs", 
 "desc"     : "Seth McCombs", 
 "category" : "page", 
