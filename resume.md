@@ -6,18 +6,30 @@ subtitle:
 
 <div class="job-header">
   <div>
+    <h3><a href="https://akuity.io">Akuity</a></h3>
+    <strong>Solutions Architect</strong>
+  </div>
+
+  <div class="job-date">
+    November 2026 – Current
+  </div>
+</div>
+- Argo CD and Kargo
+
+<div class="job-header">
+  <div>
     <h3><a href="https://greybeam.ai">Greybeam</a></h3>
     <strong>Founding Infrastructure Engineer</strong>
   </div>
 
   <div class="job-date">
-    October 2025 – August 2026
+    October 2025 – September 2026
   </div>
 </div>
 - Led infrastructure operations across AWS, including EKS, RDS, VPC networking, load balancing, and S3
 - Expanded Greybeam's platform into GCP, building and operating infrastructure using GKE, Cloud SQL, and Cloud Storage
 - Introduced and standardized infrastructure tooling across several areas:
-  - Automation/Deployment: [ArgoCD](https://argoproj.github.io/cd/), [Terragrunt Scale](https://terragrunt.com/terragrunt-scale)
+  - Automation/Deployment: [Argo CD](https://argoproj.github.io/cd/), [Terragrunt Scale](https://terragrunt.com/terragrunt-scale)
   - Observability: [kube-prometheus](https://github.com/prometheus-operator/kube-prometheus), [Datadog](https://www.datadoghq.com)
   - Security & Policy: [conftest](https://www.conftest.dev), [Kusari Inspector](https://www.kusari.dev/inspector/), GitHub Dependabot, [Cert-Manager](https://cert-manager.io)
 - Partnered with Greybeam's co-founders to establish infrastructure and security practices supporting the company's SOC 2 certification
@@ -43,7 +55,7 @@ subtitle:
 
 - Led infrastructure engineering and platform strategy at AcuityMD
 - Drove the migration toward a GKE-based platform, consolidating workloads previously distributed across GCP container and managed services including Cloud Run, Cloud Functions, and App Engine
-- Led the migration from GCP Cloud Build to GitHub Actions for CI and established [ArgoCD]([ArgoCD](https://argoproj.github.io/cd/))-based GitOps workflows for application deployments
+- Led the migration from GCP Cloud Build to GitHub Actions for CI and established [Argo CD]([Argo CD](https://argoproj.github.io/cd/))-based GitOps workflows for application deployments
 - Introduced automation tooling to improve developer workservflows, including [Atlantis]([Atlantis](https://www.runatlantis.io)) for Terraform automation and [Tilt]([Tilt](https://tilt.dev)) for local development
 - Built an internal CLI that enabled application engineers to independently troubleshoot Kubernetes microservices and cloud-hosted services
 - Improved platform networking, security, and reliability through the adoption of Istio Gateway and GCP Gateway technologies
